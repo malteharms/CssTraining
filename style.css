@@ -1,0 +1,19 @@
+div {
+    background-color: #EAF0F6;
+    color: #33475B;
+    border: 1px solid #00A4BD;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+
+.active {
+    height: 200px;
+}
+
+.inactive {
+    height: 100px;
+}
